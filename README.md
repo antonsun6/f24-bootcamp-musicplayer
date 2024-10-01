@@ -1,7 +1,7 @@
 # f24-bootcamp-musicplayer
 
 1. Recreation of Apple Music user interface
-![UI Screenshot](f24-bootcamp-musicplayer/music_player_UI_screenshot.png)
+![UI Screenshot](music_player_UI_screenshot.png)
 
 2. Replicates the button and image arrangements of the apple music interface
 3. Used ZStack, HStack, VStack, Padding
